@@ -1,0 +1,13 @@
+{
+  "name": "rodropz-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for RODROPZ",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.1",
+    "telegraf": "^4.16.3"
+  }
+}
